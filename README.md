@@ -21,5 +21,10 @@ This project analyzes the monthly returns of three major tech stocks (NVDA, MSFT
 - Descriptive statistics (mean, standard deviation, min/max returns) for each stock.
 - Risk-return comparison of the three selected tech stocks.
 
+## Key Findings
+- NVDA showed the highest volatility among the three stocks in 2022
+- MSFT had the most stable monthly returns
+- AAPL outperformed both in 3 out of 12 months
+
 ## Author
 - Jingyi Guan 2473524
