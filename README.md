@@ -11,6 +11,9 @@ This project analyzes the monthly returns of three major tech stocks (NVDA, MSFT
 - `acc102 individual project.ipynb`: The main Jupyter Notebook containing all analysis code.
 - `stock_2024_data.csv`: The pre-downloaded dataset for reproducibility.
 
+## Target User
+Finance students, investment analysts, and researchers.
+
 ## How to Run
 1.  Clone this repository to your local machine.
 2.  Open the Jupyter Notebook `acc102 individual project.ipynb`.
